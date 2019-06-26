@@ -1,0 +1,1551 @@
+﻿Log file open, 06/25/19 18:18:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Zelda_Cryonis
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.276289
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogStreaming: Display: Took  0.088s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=Nitrogen420 -epicuserid=b66ed01d48fe491c8d6e3431790f8c14 -epiclocale=en-US
+LogInit: Base Directory: D:/Unreal Engines/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/Zelda_Cryonis/Saved/Config/Windows/Engine.ini]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/Zelda_Cryonis/Saved/Config/Windows/Engine.ini]
+[2019.06.25-15.18.57:506][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/Zelda_Cryonis/Saved/Config/Windows/Engine.ini]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/Zelda_Cryonis/Saved/Config/Windows/Engine.ini]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.25-15.18.57:506][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/Zelda_Cryonis/Saved/Config/Windows/Engine.ini]
+[2019.06.25-15.18.57:506][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/Zelda_Cryonis/Saved/Config/Windows/Engine.ini]
+[2019.06.25-15.18.57:508][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/Zelda_Cryonis/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-15.18.57:508][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.25-15.18.57:508][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.25-15.18.57:508][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/Zelda_Cryonis/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-15.18.57:508][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.25-15.18.57:508][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/Zelda_Cryonis/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-15.18.57:508][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.25-15.18.57:508][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.25-15.18.57:508][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.25-15.18.57:508][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.25-15.18.57:508][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.25-15.18.57:508][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.25-15.18.57:508][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.25-15.18.57:508][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/Zelda_Cryonis/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/Zelda_Cryonis/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/Zelda_Cryonis/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/Zelda_Cryonis/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.25-15.18.57:509][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.25-15.18.57:509][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.25-15.18.57:509][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.25-15.18.57:514][  0]LogHAL: Display: Platform has ~ 32 GB [34286804992 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.06.25-15.18.57:515][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.25-15.18.57:515][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/Unreal Projects/Zelda_Cryonis/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/Unreal Projects/Zelda_Cryonis/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/Unreal Projects/Zelda_Cryonis/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/Unreal Projects/Zelda_Cryonis/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/Unreal Projects/Zelda_Cryonis/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/Unreal Projects/Zelda_Cryonis/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/Unreal Projects/Zelda_Cryonis/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.25-15.18.57:515][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.25-15.18.57:516][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.25-15.18.57:516][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/Zelda_Cryonis/Saved/Config/Windows/Engine.ini]
+[2019.06.25-15.18.57:516][  0]LogInit: Computer: DESKTOP-6LTGJLU
+[2019.06.25-15.18.57:516][  0]LogInit: User: PC
+[2019.06.25-15.18.57:516][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.25-15.18.57:516][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.06.25-15.18.57:516][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.06.25-15.18.57:516][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.25-15.18.57:516][  0]LogMemory: Process Physical Memory: 103.21 MB used, 103.21 MB peak
+[2019.06.25-15.18.57:516][  0]LogMemory: Process Virtual Memory: 89.82 MB used, 89.82 MB peak
+[2019.06.25-15.18.57:516][  0]LogMemory: Physical Memory: 11249.74 MB used,  21448.71 MB free, 32698.45 MB total
+[2019.06.25-15.18.57:516][  0]LogMemory: Virtual Memory: 4648.39 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.06.25-15.18.57:533][  0]LogInit: Using OS detected language (en-US).
+[2019.06.25-15.18.57:533][  0]LogInit: Using OS detected locale (en-US).
+[2019.06.25-15.18.57:534][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.25-15.18.57:808][  0]LogStreaming: Display: Took  0.275s to InitEngineTextLocalization.
+[2019.06.25-15.18.57:808][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.25-15.18.57:833][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.25-15.18.57:833][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.25-15.18.58:137][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.25-15.18.58:137][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.25-15.18.58:188][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2019.06.25-15.18.58:188][  0]LogD3D11RHI:       11127/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.25-15.18.58:190][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.25-15.18.58:190][  0]LogD3D11RHI:       0/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.25-15.18.58:190][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.25-15.18.58:196][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.25-15.18.58:196][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.25-15.18.58:196][  0]LogWindows: EnumDisplayDevices:
+[2019.06.25-15.18.58:196][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2019.06.25-15.18.58:197][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2019.06.25-15.18.58:197][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2019.06.25-15.18.58:197][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2019.06.25-15.18.58:197][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.06.25-15.18.58:197][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2019.06.25-15.18.58:197][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
+[2019.06.25-15.18.58:197][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.06.25-15.18.58:197][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2019.06.25-15.18.58:228][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.25-15.18.58:250][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.06.25-15.18.58:631][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.25-15.18.58:641][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.25-15.18.58:651][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.25-15.18.58:660][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.25-15.18.58:670][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.25-15.18.58:681][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.25-15.18.58:694][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.25-15.18.58:704][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.25-15.18.58:709][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.25-15.18.58:761][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-15.18.58:761][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-15.18.58:761][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-15.18.58:761][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-15.18.58:761][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-15.18.58:761][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-15.18.58:761][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-15.18.58:761][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-15.18.58:761][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-15.18.58:761][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-15.18.58:761][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-15.18.58:761][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-15.18.58:761][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-15.18.58:761][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-15.18.58:761][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-15.18.58:761][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-15.18.58:761][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-15.18.58:761][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-15.18.58:762][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.25-15.18.58:815][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.25-15.18.58:815][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.25-15.18.58:831][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.25-15.18.58:831][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.25-15.18.58:840][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.25-15.18.58:848][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.25-15.18.58:858][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.25-15.18.58:867][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.25-15.18.58:901][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.25-15.18.58:901][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.25-15.18.58:901][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.25-15.18.58:949][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../Unreal Projects/Zelda_Cryonis/Intermediate/Shaders/WorkingDirectory/21944/).
+[2019.06.25-15.18.58:949][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/PC/AppData/Local/Temp/UnrealShaderWorkingDir/CADA07C341DC15668A56C39B63B1D40F/'.
+[2019.06.25-15.18.58:951][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.25-15.18.58:951][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.25-15.18.58:951][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.25-15.18.59:376][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.25-15.18.59:421][  0]LogDerivedDataCache: Loaded boot cache 0.05s 85MB C:/Users/PC/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.25-15.18.59:421][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/PC/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.06.25-15.18.59:421][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/Zelda_Cryonis/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.25-15.18.59:421][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.25-15.18.59:421][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/Zelda_Cryonis/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.25-15.18.59:421][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.25-15.18.59:435][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.25-15.18.59:438][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.06.25-15.18.59:450][  0]LogDerivedDataCache: Using Local data cache path C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.25-15.18.59:450][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.25-15.18.59:450][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.25-15.18.59:467][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.25-15.18.59:468][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.25-15.18.59:469][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.25-15.18.59:556][  0]LogAssetRegistry: FAssetRegistry took 0.0297 seconds to start up
+[2019.06.25-15.18.59:803][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.25-15.18.59:918][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.25-15.18.59:921][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.25-15.18.59:921][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.25-15.18.59:921][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.25-15.18.59:921][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.25-15.18.59:931][  0]LogNetVersion: Zelda_Cryonis 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3922528214)
+[2019.06.25-15.19.00:353][  0]LogPackageLocalizationCache: Processed 15 localized package path(s) for 2 prioritized culture(s) in 0.099049 seconds
+[2019.06.25-15.19.00:358][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.06.25-15.19.00:358][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.06.25-15.19.00:358][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.25-15.19.01:203][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.25-15.19.01:221][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.25-15.19.01:961][  0]SourceControl: Source control is disabled
+[2019.06.25-15.19.01:961][  0]SourceControl: Source control is disabled
+[2019.06.25-15.19.01:962][  0]SourceControl: Source control is disabled
+[2019.06.25-15.19.01:963][  0]SourceControl: Source control is disabled
+[2019.06.25-15.19.02:116][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.25-15.19.02:222][  0]LogOcInput: OculusInput pre-init called
+[2019.06.25-15.19.02:237][  0]LogPython: Python Scripts search path: ../../../../../Unreal Projects/Zelda_Cryonis/Content/Scripts
+[2019.06.25-15.19.02:237][  0]LogPython: Python Scripts search path: ../../../Engine/Plugins/UnrealEnginePython
+[2019.06.25-15.19.02:237][  0]LogPython: Python VM initialized: 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)]
+[2019.06.25-15.19.02:395][  0]LogPython: ####################----------Python Integration for Megascans Initialized----------####################
+[2019.06.25-15.19.02:395][  0]LogPython: 
+
+[2019.06.25-15.19.02:395][  0]LogPython: D:\Unreal Engines\UE_4.21\Engine\Plugins\UnrealEnginePython\
+[2019.06.25-15.19.02:395][  0]LogPython: 
+
+[2019.06.25-15.19.02:443][  0]LogPython: Megascans Integration - LiveLink Initialized...
+[2019.06.25-15.19.02:443][  0]LogPython: 
+
+[2019.06.25-15.19.02:444][  0]LogPython: ue_site Python module successfully imported
+[2019.06.25-15.19.04:091][  0]LogEngine: Initializing Engine...
+[2019.06.25-15.19.04:091][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.25-15.19.04:092][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.25-15.19.04:092][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.25-15.19.04:092][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.25-15.19.04:092][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.25-15.19.04:265][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.25-15.19.04:278][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.25-15.19.04:314][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.25-15.19.04:330][  0]LogInit: FAudioDevice initialized.
+[2019.06.25-15.19.04:330][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.25-15.19.04:399][  0]LogDerivedDataCache: Saved boot cache 0.07s 85MB C:/Users/PC/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.25-15.19.04:404][  0]LogInit: Texture streaming: Enabled
+[2019.06.25-15.19.04:421][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.25-15.19.04:432][  0]LogInit: Transaction tracking system initialized
+[2019.06.25-15.19.04:452][  0]BlueprintLog: New page: Editor Load
+[2019.06.25-15.19.04:563][  0]LocalizationService: Localization service is disabled
+[2019.06.25-15.19.04:732][  0]LogLinker: Warning: Can't find file '/Game/100+crosshairspack/Demo/100+CrosshairsPack_Tutorial'
+[2019.06.25-15.19.04:732][  0]LogLinker: Warning: Can't find file '/Game/100+crosshairspack/Demo/100+CrosshairsPack_Tutorial'
+[2019.06.25-15.19.04:732][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/100+crosshairspack/Demo/100+CrosshairsPack_Tutorial.100+CrosshairsPack_Tutorial_C'
+[2019.06.25-15.19.04:905][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Zelda_Cryonis/Content/' took 0.01s
+[2019.06.25-15.19.04:905][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.25-15.19.04:905][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.25-15.19.04:905][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.25-15.19.04:905][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.25-15.19.04:905][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.25-15.19.04:905][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.25-15.19.04:905][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.25-15.19.06:368][  0]SourceControl: Source control is disabled
+[2019.06.25-15.19.06:368][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/Zelda_Cryonis/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.25-15.19.06:368][  0]LightingResults: New page: Lighting Build
+[2019.06.25-15.19.06:371][  0]MapCheck: New page: Map Check
+[2019.06.25-15.19.06:371][  0]LightingResults: New page: Lighting Build
+[2019.06.25-15.19.07:200][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-15.19.07:209][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.25-15.19.07:231][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.25-15.19.07:231][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2019.06.25-15.19.07:231][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.863
+[2019.06.25-15.19.07:307][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.25-15.19.07:312][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.25-15.19.07:316][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.25-15.19.07:322][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.25-15.19.07:327][  0]LogCollectionManager: Loaded 0 collections in 0.001612 seconds
+[2019.06.25-15.19.07:376][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Zelda_Cryonis/Saved/Collections/' took 0.01s
+[2019.06.25-15.19.07:376][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Zelda_Cryonis/Content/Developers/PC/Collections/' took 0.01s
+[2019.06.25-15.19.07:376][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Zelda_Cryonis/Content/Collections/' took 0.01s
+[2019.06.25-15.19.07:376][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.25-15.19.07:384][  0]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 2728 classes and 660 folders.
+[2019.06.25-15.19.07:390][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.25-15.19.07:392][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:393][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:393][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:394][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:394][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:395][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:396][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:396][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:397][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:397][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:398][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:399][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:399][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:400][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:401][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:401][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:402][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:403][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:403][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:404][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:404][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:405][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:406][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:406][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:407][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:408][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:408][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:409][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-15.19.07:472][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.25-15.19.07:476][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.06.25-15.19.07:529][  0]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.25-15.19.07:530][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.25-15.19.07:534][  0]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.25-15.19.07:595][  0]LogRenderer: Reallocating scene render targets to support 1176x592 Format 10 NumSamples 1 (Frame:1).
+[2019.06.25-15.19.07:767][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.25-15.19.07:767][  0]LogLoad: (Engine Initialization) Total time: 12.73 seconds
+[2019.06.25-15.19.07:767][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.25-15.19.07:830][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2019.06.25-15.19.07:876][  0]LogRenderer: Reallocating scene render targets to support 1176x604 Format 10 NumSamples 1 (Frame:3).
+[2019.06.25-15.19.07:876][  0]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.25-15.19.07:977][  4]LogPython: tcp server spawned on 127.0.0.1:13428
+[2019.06.25-15.19.12:699][513]LogAssetRegistry: Asset discovery search completed in 13.1650 seconds
+[2019.06.25-15.19.12:700][513]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.25-15.19.12:700][513]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2019.06.25-15.20.18:304][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.20.19:010][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2019.06.25-15.20.19:308][908]Cmd: DELETE
+[2019.06.25-15.20.19:308][908]Cmd: ACTOR DELETE
+[2019.06.25-15.20.19:386][908]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-15.20.19:403][908]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2019.06.25-15.20.19:538][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2019.06.25-15.20.19:649][931]Cmd: DELETE
+[2019.06.25-15.20.19:649][931]Cmd: ACTOR DELETE
+[2019.06.25-15.20.19:651][931]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-15.20.19:669][931]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2019.06.25-15.20.19:861][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2019.06.25-15.20.19:954][961]Cmd: DELETE
+[2019.06.25-15.20.19:954][961]Cmd: ACTOR DELETE
+[2019.06.25-15.20.19:956][961]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-15.20.19:975][961]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.06.25-15.20.20:275][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2019.06.25-15.20.20:356][  3]Cmd: DELETE
+[2019.06.25-15.20.20:356][  3]Cmd: ACTOR DELETE
+[2019.06.25-15.20.20:358][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-15.20.20:375][  3]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2019.06.25-15.20.20:575][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2019.06.25-15.20.20:664][ 34]Cmd: DELETE
+[2019.06.25-15.20.20:664][ 34]Cmd: ACTOR DELETE
+[2019.06.25-15.20.20:666][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-15.20.20:682][ 34]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2019.06.25-15.20.20:992][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2019.06.25-15.20.21:107][ 81]Cmd: DELETE
+[2019.06.25-15.20.21:107][ 81]Cmd: ACTOR DELETE
+[2019.06.25-15.20.21:109][ 81]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-15.20.21:126][ 81]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2019.06.25-15.20.21:401][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2019.06.25-15.20.23:006][302]LogEditorViewport: Clicking on Actor (LMB): DocumentationActor (DocumentationActor1)
+[2019.06.25-15.20.23:340][338]Cmd: DELETE
+[2019.06.25-15.20.23:340][338]Cmd: ACTOR DELETE
+[2019.06.25-15.20.23:342][338]LogEditorActor: Deleted Actor: DocumentationActor
+[2019.06.25-15.20.23:360][338]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2019.06.25-15.20.23:711][380]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2019.06.25-15.20.23:895][396]Cmd: DELETE
+[2019.06.25-15.20.23:895][396]Cmd: ACTOR DELETE
+[2019.06.25-15.20.23:896][396]LogEditorActor: Deleted Actor: TextRenderActor
+[2019.06.25-15.20.23:913][396]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2019.06.25-15.20.26:067][654]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.06.25-15.20.26:434][688]Cmd: DELETE
+[2019.06.25-15.20.26:434][688]Cmd: ACTOR DELETE
+[2019.06.25-15.20.26:435][688]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2019.06.25-15.20.26:452][688]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2019.06.25-15.20.26:649][711]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.06.25-15.20.26:938][737]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.25-15.20.27:476][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.20.33:908][ 54]Cmd: EDIT PASTE
+[2019.06.25-15.20.33:992][ 54]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/M_Wall'
+[2019.06.25-15.20.33:992][ 54]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/M_Wall'
+[2019.06.25-15.20.33:992][ 54]LogProperty: Warning: ObjectProperty /Script/Engine.MeshComponent:OverrideMaterials.OverrideMaterials: unresolved reference to 'Material'"/Game/ThirdPersonBP/Blueprints/M_Wall.M_Wall"''
+[2019.06.25-15.20.34:023][ 54]LogProperty: Warning: ObjectProperty /Script/Engine.MeshComponent:OverrideMaterials.OverrideMaterials: unresolved reference to 'Material'"/Game/ThirdPersonBP/Blueprints/M_Wall.M_Wall"''
+[2019.06.25-15.20.34:027][ 54]LogProperty: Warning: ObjectProperty /Script/Engine.MeshComponent:OverrideMaterials.OverrideMaterials: unresolved reference to 'Material'"/Game/ThirdPersonBP/Blueprints/M_Wall.M_Wall"''
+[2019.06.25-15.20.34:027][ 54]LogProperty: Warning: ObjectProperty /Script/Engine.MeshComponent:OverrideMaterials.OverrideMaterials: unresolved reference to 'Material'"/Game/ThirdPersonBP/Blueprints/M_Wall.M_Wall"''
+[2019.06.25-15.20.34:028][ 54]LogProperty: Warning: ObjectProperty /Script/Engine.MeshComponent:OverrideMaterials.OverrideMaterials: unresolved reference to 'Material'"/Game/ThirdPersonBP/Blueprints/M_Wall.M_Wall"''
+[2019.06.25-15.20.34:028][ 54]LogProperty: Warning: ObjectProperty /Script/Engine.MeshComponent:OverrideMaterials.OverrideMaterials: unresolved reference to 'Material'"/Game/ThirdPersonBP/Blueprints/M_Wall.M_Wall"''
+[2019.06.25-15.20.34:058][ 54]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.06.25-15.20.34:144][ 54]LogRenderer: Warning: Gaussian DOF algorithm is deprecated and will be removed from deferred shading renderer. Consider using the Circle DOF method in post process settings.
+[2019.06.25-15.20.38:877][536]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.06.25-15.20.39:704][630]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.06.25-15.20.40:061][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2019.06.25-15.20.40:598][697]Cmd: DELETE
+[2019.06.25-15.20.40:598][697]Cmd: ACTOR DELETE
+[2019.06.25-15.20.40:602][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-15.20.40:622][697]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.06.25-15.20.40:767][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2019.06.25-15.20.40:835][717]Cmd: DELETE
+[2019.06.25-15.20.40:835][717]Cmd: ACTOR DELETE
+[2019.06.25-15.20.40:837][717]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-15.20.40:855][717]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2019.06.25-15.20.41:315][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2019.06.25-15.20.41:409][775]Cmd: DELETE
+[2019.06.25-15.20.41:409][775]Cmd: ACTOR DELETE
+[2019.06.25-15.20.41:411][775]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-15.20.41:429][775]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.06.25-15.20.41:695][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.06.25-15.20.42:077][847]Cmd: DELETE
+[2019.06.25-15.20.42:077][847]Cmd: ACTOR DELETE
+[2019.06.25-15.20.42:080][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-15.20.42:098][847]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.06.25-15.20.42:260][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2019.06.25-15.20.42:674][911]Cmd: DELETE
+[2019.06.25-15.20.42:674][911]Cmd: ACTOR DELETE
+[2019.06.25-15.20.42:677][911]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-15.20.42:695][911]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.06.25-15.20.43:470][  4]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.06.25-15.20.43:666][ 10]Cmd: DELETE
+[2019.06.25-15.20.43:666][ 10]Cmd: ACTOR DELETE
+[2019.06.25-15.20.43:669][ 10]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2019.06.25-15.20.43:715][ 10]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2019.06.25-15.20.44:852][146]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2019.06.25-15.20.45:063][167]Cmd: DELETE
+[2019.06.25-15.20.45:063][167]Cmd: ACTOR DELETE
+[2019.06.25-15.20.45:066][167]LogEditorActor: Deleted Actor: PlayerStart
+[2019.06.25-15.20.45:084][167]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.06.25-15.20.48:236][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2019.06.25-15.20.50:630][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.20.54:499][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.21.07:122][699]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.25-15.21.07:174][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Others/M_Wall" FILE="../../../../../Unreal Projects/Zelda_Cryonis/Content/ThirdPersonBP/Blueprints/Others/M_Wall.uasset" SILENT=true
+[2019.06.25-15.21.07:183][699]LogSavePackage: Moving '../../../../../Unreal Projects/Zelda_Cryonis/Saved/M_Wall075461B14655D7E3B5876390000D68B7.tmp' to '../../../../../Unreal Projects/Zelda_Cryonis/Content/ThirdPersonBP/Blueprints/Others/M_Wall.uasset'
+[2019.06.25-15.21.35:914][146]LogAssetEditorManager: Opening Asset editor for Material /Game/ThirdPersonBP/Blueprints/Others/M_Wall.M_Wall
+[2019.06.25-15.21.35:917][146]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2019.06.25-15.21.36:181][146]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2019.06.25-15.21.36:211][146]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.25-15.21.36:211][146]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.25-15.21.36:211][146]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.25-15.21.36:211][146]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.25-15.21.36:236][146]LogSlate: Took 0.000343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.25-15.21.36:627][166]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.25-15.21.36:676][170]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.25-15.21.36:774][178]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.25-15.21.36:801][180]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.25-15.21.36:830][182]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.25-15.21.36:904][187]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.25-15.21.37:030][196]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.25-15.21.37:030][196]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.25-15.21.37:043][197]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.25-15.21.37:265][213]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.25-15.21.37:358][215]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.25-15.21.37:380][217]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.25-15.21.37:405][218]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.06.25-15.21.37:525][223]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.25-15.21.37:607][229]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.25-15.21.37:741][240]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.25-15.21.37:778][243]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.25-15.21.38:093][268]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.06.25-15.21.38:093][268]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.06.25-15.21.38:093][268]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.06.25-15.21.38:093][268]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.25-15.21.38:549][321]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2019.06.25-15.21.38:561][321]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.06.25-15.21.38:591][322]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.25-15.21.38:591][322]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.25-15.21.38:591][322]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.25-15.21.38:591][322]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.25-15.21.38:736][332]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.25-15.21.38:776][335]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.25-15.21.38:789][336]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.25-15.21.38:789][336]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.25-15.21.38:881][344]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.25-15.21.38:925][347]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.25-15.21.39:013][348]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.25-15.21.39:013][348]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.25-15.21.39:013][348]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.25-15.21.39:271][361]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.25-15.21.39:359][367]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.25-15.21.39:410][371]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.25-15.21.39:469][375]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.25-15.21.39:598][384]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.25-15.21.39:655][388]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.06.25-15.21.39:795][400]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.25-15.21.39:807][401]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.25-15.21.39:861][406]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.25-15.21.39:960][415]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.25-15.21.40:886][518]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2019.06.25-15.21.40:900][518]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.25-15.21.40:900][518]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.25-15.21.40:900][518]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.25-15.21.40:900][518]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.25-15.21.40:903][518]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.06.25-15.21.41:078][526]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.25-15.21.41:151][531]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.25-15.21.41:151][531]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.25-15.21.41:151][531]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.25-15.21.41:256][539]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.25-15.21.41:282][541]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.25-15.21.41:320][544]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.25-15.21.41:320][544]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.25-15.21.41:392][550]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.25-15.21.41:466][556]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2019.06.25-15.21.41:492][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.06.25-15.21.41:520][556]LogSlate: Window 'Color Picker' being destroyed
+[2019.06.25-15.21.41:520][556]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.25-15.21.41:635][558]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.25-15.21.41:722][563]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.25-15.21.41:784][567]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.25-15.21.41:784][567]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.25-15.21.41:859][571]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.25-15.21.41:928][575]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.25-15.21.41:951][577]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.25-15.21.41:952][577]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.25-15.21.42:020][583]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.25-15.21.42:076][587]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.25-15.21.42:088][588]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.25-15.21.42:100][589]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.25-15.21.42:331][605]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.25-15.21.42:398][611]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.25-15.21.42:403][611]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2019.06.25-15.21.42:426][611]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.06.25-15.21.42:454][611]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.25-15.21.42:471][611]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.25-15.21.42:607][620]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.25-15.21.42:664][624]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.25-15.21.42:676][625]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.25-15.21.42:689][626]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.25-15.21.42:797][635]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.25-15.21.42:821][637]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.25-15.21.42:832][638]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.25-15.21.42:832][638]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.25-15.21.42:959][647]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.25-15.21.42:960][647]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.25-15.21.42:995][650]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.25-15.21.43:198][665]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.25-15.21.43:246][667]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.25-15.21.43:406][679]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.25-15.21.43:407][679]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.25-15.21.43:471][684]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.25-15.21.43:528][689]LogMaterialEditor: Saving and Compiling material M_Wall
+[2019.06.25-15.21.43:966][689]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.06.25-15.21.43:966][689]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.25-15.21.43:966][689]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.25-15.21.43:966][689]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.25-15.21.43:966][689]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.25-15.21.43:978][689]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2019.06.25-15.21.44:017][689]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.25-15.21.44:017][689]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.25-15.21.44:017][689]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.25-15.21.44:026][689]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.25-15.21.44:041][689]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2019.06.25-15.21.44:066][689]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2019.06.25-15.21.44:142][689]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wall, compiling. 
+[2019.06.25-15.21.45:234][689]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.25-15.21.45:234][689]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.06.25-15.21.45:234][689]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.06.25-15.21.45:234][689]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.06.25-15.21.45:234][689]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.06.25-15.21.45:234][689]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.06.25-15.21.45:234][689]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.06.25-15.21.45:234][689]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.06.25-15.21.45:234][689]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.06.25-15.21.45:234][689]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.06.25-15.21.45:234][689]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.25-15.21.45:234][689]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.06.25-15.21.45:234][689]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.06.25-15.21.45:234][689]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.06.25-15.21.45:234][689]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.06.25-15.21.45:234][689]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.06.25-15.21.45:234][689]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.25-15.21.45:234][689]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.25-15.21.45:234][689]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.25-15.21.45:234][689]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.25-15.21.45:234][689]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.25-15.21.45:236][689]TextureStreamingBuild: Display: Compiling optional shaders took 1.130 seconds.
+[2019.06.25-15.21.47:076][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Others/M_Wall" FILE="../../../../../Unreal Projects/Zelda_Cryonis/Content/ThirdPersonBP/Blueprints/Others/M_Wall.uasset" SILENT=true
+[2019.06.25-15.21.47:086][689]LogSavePackage: Moving '../../../../../Unreal Projects/Zelda_Cryonis/Saved/M_WallDF6A20F54555135748094E91438CD4BF.tmp' to '../../../../../Unreal Projects/Zelda_Cryonis/Content/ThirdPersonBP/Blueprints/Others/M_Wall.uasset'
+[2019.06.25-15.21.47:103][689]MaterialEditorStats: Base pass shader: 104 instructions
+[2019.06.25-15.21.47:103][689]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2019.06.25-15.21.47:103][689]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.06.25-15.21.47:103][689]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.25-15.21.57:200][776]LogSlate: Window 'M_Wall' being destroyed
+[2019.06.25-15.21.57:204][776]LogSlate: Window 'M_Wall' being destroyed
+[2019.06.25-15.21.57:796][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2019.06.25-15.21.58:544][920]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube17)
+[2019.06.25-15.21.58:904][958]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube11)
+[2019.06.25-15.21.59:764][ 56]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube16)
+[2019.06.25-15.22.00:325][117]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube18)
+[2019.06.25-15.22.01:025][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.22.05:258][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.22.10:765][331]LogEditorActor: Deleted Actor: PostProcessVolume
+[2019.06.25-15.22.10:784][331]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.06.25-15.22.17:473][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.22.47:065][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.22.50:526][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2019.06.25-15.22.52:178][221]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube7)
+[2019.06.25-15.22.52:438][241]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube6)
+[2019.06.25-15.22.53:073][305]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube12)
+[2019.06.25-15.22.53:945][392]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube11)
+[2019.06.25-15.22.54:342][427]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube8)
+[2019.06.25-15.22.54:864][473]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube13)
+[2019.06.25-15.22.55:428][533]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube9)
+[2019.06.25-15.22.56:012][599]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube10)
+[2019.06.25-15.22.59:267][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2019.06.25-15.22.59:563][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2019.06.25-15.23.01:270][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2019.06.25-15.23.02:337][236]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor)
+[2019.06.25-15.23.02:463][248]Cmd: DUPLICATE
+[2019.06.25-15.23.02:463][248]Cmd: ACTOR DUPLICATE
+[2019.06.25-15.23.05:341][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2019.06.25-15.23.05:594][576]Cmd: DELETE
+[2019.06.25-15.23.05:594][576]Cmd: ACTOR DELETE
+[2019.06.25-15.23.05:597][576]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-15.23.05:615][576]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.06.25-15.23.05:979][617]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2019.06.25-15.23.06:281][648]Cmd: DELETE
+[2019.06.25-15.23.06:281][648]Cmd: ACTOR DELETE
+[2019.06.25-15.23.06:283][648]LogEditorActor: Deleted Actor: TextRenderActor
+[2019.06.25-15.23.06:302][648]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.06.25-15.23.08:175][866]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-15.23.08:346][866]LogSavePackage: Moving '../../../../../Unreal Projects/Zelda_Cryonis/Saved/ThirdPersonExampleMapC215EE494E53301F87BD189966C2D124.tmp' to '../../../../../Unreal Projects/Zelda_Cryonis/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.06.25-15.23.08:500][866]LogSavePackage: Moving '../../../../../Unreal Projects/Zelda_Cryonis/Saved/ThirdPersonExampleMap_BuiltDataC75CB7404ACA214F33CBFC9FBEB23DDF.tmp' to '../../../../../Unreal Projects/Zelda_Cryonis/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.06.25-15.24.09:537][392]LogDirectoryWatcher: A directory notification failed for 'D:/Unreal Projects/Zelda_Cryonis/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2019.06.25-15.24.09:537][392]LogDirectoryWatcher: A directory notification failed for 'D:/Unreal Projects/Zelda_Cryonis/Content/Developers/PC/Collections/' because it could not be accessed. Aborting watch request...
+[2019.06.25-15.24.09:537][392]LogDirectoryWatcher: A directory notification failed for 'D:/Unreal Projects/Zelda_Cryonis/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2019.06.25-15.24.27:815][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.24.31:526][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.24.56:712][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.25.05:179][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.25.08:612][288]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update CC_Water_Color
+[2019.06.25-15.25.11:335][549]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor2)
+[2019.06.25-15.25.12:780][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.25.20:185][573]Cmd: DELETE
+[2019.06.25-15.25.20:185][573]Cmd: ACTOR DELETE
+[2019.06.25-15.25.20:196][573]LogEditorActor: Deleted Actor: BP_Water_Actor_C
+[2019.06.25-15.25.20:218][573]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.06.25-15.25.21:738][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.25.23:693][974]LogMaterial: Display: Missing cached shader map for material M_Water_Gerstner_Waves, compiling. 
+[2019.06.25-15.25.23:793][974]LogAIModule: Creating AISystem for world OverviewMap
+[2019.06.25-15.25.23:793][974]LogActorComponent: RegisterComponentWithWorld: (/Game/ReactiveWater/Maps/OverviewMap.OverviewMap:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.06.25-15.25.23:825][974]LogShaderCompilers: Display: Shaders left to compile 119
+[2019.06.25-15.25.23:825][974]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.06.25-15.25.23:825][974]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.06.25-15.25.23:825][974]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.06.25-15.25.23:826][974]LogAssetEditorManager: Opening Asset editor for World /Game/ReactiveWater/Maps/OverviewMap.OverviewMap
+[2019.06.25-15.25.25:043][974]LogSlate: Window 'Save Content' being destroyed
+[2019.06.25-15.25.25:358][974]LogSavePackage: Moving '../../../../../Unreal Projects/Zelda_Cryonis/Saved/ThirdPersonExampleMap90083A2B4D65833F2A6EE49FEA7FBB5D.tmp' to '../../../../../Unreal Projects/Zelda_Cryonis/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.06.25-15.25.25:369][974]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.318
+[2019.06.25-15.25.25:493][974]LogSavePackage: Moving '../../../../../Unreal Projects/Zelda_Cryonis/Saved/ThirdPersonExampleMap_BuiltDataEF4E79B3442F757B79EEA5A98C5FDFB8.tmp' to '../../../../../Unreal Projects/Zelda_Cryonis/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.06.25-15.25.25:497][974]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/Zelda_Cryonis/Content/ReactiveWater/Maps/OverviewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.25-15.25.25:497][974]LightingResults: New page: Lighting Build
+[2019.06.25-15.25.25:498][974]LoadErrors: New page: Loading map: OverviewMap.umap
+[2019.06.25-15.25.25:499][974]MapCheck: New page: Map Check
+[2019.06.25-15.25.25:499][974]LightingResults: New page: Lighting Build
+[2019.06.25-15.25.25:618][974]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.06.25-15.25.25:618][974]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.06.25-15.25.25:618][974]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.25-15.25.25:648][974]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.25-15.25.25:648][974]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.105ms to complete.
+[2019.06.25-15.25.25:649][974]LogFileHelpers: Loading map 'OverviewMap' took 0.153
+[2019.06.25-15.25.25:725][974]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-15.25.31:969][598]LogEditorViewport: Clicking on Actor (LMB): BP_Water_Actor_C (BP_Water_Actor)
+[2019.06.25-15.25.41:210][599]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.06.25-15.25.43:238][821]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.06.25-15.25.47:056][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-15.25.47:563][182]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.06.25-15.25.47:826][213]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.06.25-15.25.47:835][214]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.25-15.25.49:379][374]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.25-15.25.57:645][852]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-15.25.59:386][ 40]LogEditorViewport: Clicking on Actor (LMB): BP_Water_Actor_C (BP_Water_Actor)
+[2019.06.25-15.26.00:007][ 96]Cmd: EDIT COPY
+[2019.06.25-15.26.00:420][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.26.02:474][364]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.06.25-15.26.02:497][364]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/Zelda_Cryonis/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.25-15.26.02:498][364]LightingResults: New page: Lighting Build
+[2019.06.25-15.26.02:498][364]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.06.25-15.26.02:499][364]MapCheck: New page: Map Check
+[2019.06.25-15.26.02:499][364]LightingResults: New page: Lighting Build
+[2019.06.25-15.26.02:627][364]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.25-15.26.02:659][364]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.25-15.26.02:659][364]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2019.06.25-15.26.02:662][364]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.166
+[2019.06.25-15.26.03:381][439]Cmd: EDIT PASTE
+[2019.06.25-15.26.03:385][439]LogProperty: Warning: ObjectProperty /Game/ReactiveWater/Blueprints/BP_Water_Actor.BP_Water_Actor_C:Sun: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.06.25-15.26.26:754][933]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-15.26.42:624][889]LogEditorActor: Actor Light Source is referenced by SkySphereBlueprint.
+[2019.06.25-15.26.43:860][889]LogSlate: Window 'Message' being destroyed
+[2019.06.25-15.26.43:864][889]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.06.25-15.26.43:887][889]LogEditorActor: Deleted 1 Actors (1.275 secs)
+[2019.06.25-15.26.48:554][439]Cmd: DELETE
+[2019.06.25-15.26.48:554][439]Cmd: ACTOR DELETE
+[2019.06.25-15.26.48:557][439]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2019.06.25-15.26.48:576][439]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.06.25-15.26.49:731][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.26.58:390][592]LogEditorViewport: Clicking on Actor (LMB): BP_Water_Actor_C (BP_Water_Actor)
+[2019.06.25-15.26.59:772][746]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-15.27.09:001][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.27.22:443][521]LogSlate: Window 'Save Content' being destroyed
+[2019.06.25-15.28.24:840][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.28.35:060][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.30.57:448][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.31.52:857][ 14]LogEditorViewport: Clicking on Actor (LMB): BP_Water_Actor_C (BP_Water_Actor)
+[2019.06.25-15.31.56:380][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.32.07:339][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.32.08:775][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.32.14:218][216]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.06.25-15.32.20:123][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.32.20:305][932]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Cryonis.Cryonis
+[2019.06.25-15.32.20:665][932]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.06.25-15.32.21:299][932]LogRenderer: Reallocating scene render targets to support 1220x696 Format 10 NumSamples 1 (Frame:1).
+[2019.06.25-15.32.31:540][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-15.32.32:782][187]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-15.32.33:280][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.32.34:629][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.32.48:033][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.33.00:219][837]LogEditorTransaction: Undo Modify Component(s)
+[2019.06.25-15.33.00:940][883]LogEditorTransaction: Undo Modify Component(s)
+[2019.06.25-15.33.01:320][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.33.19:488][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.33.20:442][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.33.23:537][ 77]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:537][ 77]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:537][ 77]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:537][ 77]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:547][ 78]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:547][ 78]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:547][ 78]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:547][ 78]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:557][ 79]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:557][ 79]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:557][ 79]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:557][ 79]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:566][ 80]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:566][ 80]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:567][ 80]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:567][ 80]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:575][ 81]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:575][ 81]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:575][ 81]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:575][ 81]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:585][ 82]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:585][ 82]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:585][ 82]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:585][ 82]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:594][ 83]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:594][ 83]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:594][ 83]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:594][ 83]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:603][ 84]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:603][ 84]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:604][ 84]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:604][ 84]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:612][ 85]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:612][ 85]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:612][ 85]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:612][ 85]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:622][ 86]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:622][ 86]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:622][ 86]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:623][ 86]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:630][ 87]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:630][ 87]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:630][ 87]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:630][ 87]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:640][ 88]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:640][ 88]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:640][ 88]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:640][ 88]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:650][ 89]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:650][ 89]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:650][ 89]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:650][ 89]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:659][ 90]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:659][ 90]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:659][ 90]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:659][ 90]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:669][ 91]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:669][ 91]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:669][ 91]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:669][ 91]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:677][ 92]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:677][ 92]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:677][ 92]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:677][ 92]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:686][ 93]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:687][ 93]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:687][ 93]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:687][ 93]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:695][ 94]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:695][ 94]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:695][ 94]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:695][ 94]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:705][ 95]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:705][ 95]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:705][ 95]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:705][ 95]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:714][ 96]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:714][ 96]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:714][ 96]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:714][ 96]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:723][ 97]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:723][ 97]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:724][ 97]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:724][ 97]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:734][ 98]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:734][ 98]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.23:734][ 98]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.23:734][ 98]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.24:047][132]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.24:047][132]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.24:047][132]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.24:047][132]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.24:057][133]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.24:057][133]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.24:057][133]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.24:057][133]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.24:068][134]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.24:068][134]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.24:068][134]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.24:068][134]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.24:077][135]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.24:077][135]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.24:077][135]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.24:077][135]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.24:088][136]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.24:088][136]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.24:088][136]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.24:088][136]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.24:097][137]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.24:097][137]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.24:097][137]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.24:097][137]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.24:108][138]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.24:108][138]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.24:108][138]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.25-15.33.24:108][138]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.06.25-15.33.24:922][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.33.24:954][228]Cmd: MODE ROTGRID=0
+[2019.06.25-15.33.25:306][263]Cmd: MODE SCALEGRID=0
+[2019.06.25-15.33.33:377][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.33.42:575][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.33.42:616][998]Cmd: MODE GRID=0
+[2019.06.25-15.33.46:733][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.33.48:136][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.33.52:326][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.34.03:210][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.34.18:741][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.34.27:457][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.34.27:508][524]BlueprintLog: New page: Compile Cryonis
+[2019.06.25-15.34.54:898][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.34.54:959][344]BlueprintLog: New page: Compile Cryonis
+[2019.06.25-15.35.07:335][ 74]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.25-15.35.07:340][ 74]LogSlate: Window 'Cryonis*' being destroyed
+[2019.06.25-15.35.32:073][501]LogSlate: Window 'Save Content' being destroyed
+[2019.06.25-15.35.32:331][501]LogSavePackage: Moving '../../../../../Unreal Projects/Zelda_Cryonis/Saved/ThirdPersonExampleMapF7EA0E734F8F3746C8D7108820473B87.tmp' to '../../../../../Unreal Projects/Zelda_Cryonis/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.06.25-15.35.32:340][501]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.251
+[2019.06.25-15.35.38:837][131]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-15.35.49:713][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.35.52:446][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.35.57:962][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.36.00:550][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.36.10:587][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.36.13:118][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.36.20:796][444]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.06.25-15.36.26:320][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.36.26:458][118]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Cryonis.Cryonis
+[2019.06.25-15.36.29:786][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.36.29:810][409]Cmd: MODE GRID=1
+[2019.06.25-15.36.30:673][500]Cmd: MODE SCALEGRID=1
+[2019.06.25-15.36.31:014][538]Cmd: MODE ROTGRID=1
+[2019.06.25-15.36.40:007][486]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-15.36.41:881][702]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-15.36.42:359][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.36.45:757][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.36.51:129][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.37.00:774][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.37.00:806][599]Cmd: MODE GRID=0
+[2019.06.25-15.37.11:695][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.37.19:922][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.37.21:643][433]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.25-15.37.21:648][433]LogSlate: Window 'Cryonis*' being destroyed
+[2019.06.25-15.38.08:540][ 51]LogAssetEditorManager: Opening Asset editor for Material /Game/ThirdPersonBP/Blueprints/Cryonis/Cryonis_Mat.Cryonis_Mat
+[2019.06.25-15.38.08:543][ 51]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.08:605][ 51]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.08:622][ 51]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.08:640][ 51]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.25-15.38.08:640][ 51]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.25-15.38.08:640][ 51]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.25-15.38.08:640][ 51]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.25-15.38.09:070][ 78]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.25-15.38.09:082][ 79]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.25-15.38.09:111][ 82]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.25-15.38.09:133][ 84]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.25-15.38.09:279][ 94]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.25-15.38.09:281][ 95]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.25-15.38.09:304][ 97]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.25-15.38.09:349][101]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.25-15.38.09:464][111]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.25-15.38.09:582][121]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.25-15.38.09:752][136]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.25-15.38.09:838][139]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.25-15.38.09:869][142]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.06.25-15.38.09:970][146]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.25-15.38.09:984][147]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.25-15.38.10:192][163]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.25-15.38.10:224][166]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.25-15.38.10:554][197]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.06.25-15.38.10:554][197]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.06.25-15.38.10:554][197]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.06.25-15.38.10:554][197]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.25-15.38.10:673][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_18.MaterialExpressionMultiply_2"')'
+[2019.06.25-15.38.10:673][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_20.MaterialExpressionScalarParameter_2"')'
+[2019.06.25-15.38.10:674][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionIf'"MaterialGraphNode_21.MaterialExpressionIf_0"')'
+[2019.06.25-15.38.10:674][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionClamp'"MaterialGraphNode_27.MaterialExpressionClamp_0"')'
+[2019.06.25-15.38.10:674][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_2.MaterialExpressionTextureCoordinate_0"')'
+[2019.06.25-15.38.10:674][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_2.MaterialExpressionTextureCoordinate_0"')'
+[2019.06.25-15.38.10:674][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionComponentMask'"MaterialGraphNode_3.MaterialExpressionComponentMask_0"')'
+[2019.06.25-15.38.10:675][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionComponentMask'"MaterialGraphNode_4.MaterialExpressionComponentMask_1"')'
+[2019.06.25-15.38.10:675][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_5.MaterialExpressionMultiply_0"')'
+[2019.06.25-15.38.10:675][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_6.MaterialExpressionMultiply_1"')'
+[2019.06.25-15.38.10:675][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSine'"MaterialGraphNode_7.MaterialExpressionSine_0"')'
+[2019.06.25-15.38.10:675][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSine'"MaterialGraphNode_8.MaterialExpressionSine_1"')'
+[2019.06.25-15.38.10:676][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionOneMinus'"MaterialGraphNode_9.MaterialExpressionOneMinus_0"')'
+[2019.06.25-15.38.10:676][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_12.MaterialExpressionScalarParameter_0"')'
+[2019.06.25-15.38.10:676][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionOneMinus'"MaterialGraphNode_10.MaterialExpressionOneMinus_1"')'
+[2019.06.25-15.38.10:676][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_12.MaterialExpressionScalarParameter_0"')'
+[2019.06.25-15.38.10:676][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPower'"MaterialGraphNode_11.MaterialExpressionPower_0"')'
+[2019.06.25-15.38.10:677][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_14.MaterialExpressionScalarParameter_1"')'
+[2019.06.25-15.38.10:677][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPower'"MaterialGraphNode_13.MaterialExpressionPower_1"')'
+[2019.06.25-15.38.10:677][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_14.MaterialExpressionScalarParameter_1"')'
+[2019.06.25-15.38.10:677][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSubtract'"MaterialGraphNode_15.MaterialExpressionSubtract_0"')'
+[2019.06.25-15.38.10:677][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSubtract'"MaterialGraphNode_16.MaterialExpressionSubtract_1"')'
+[2019.06.25-15.38.10:677][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_17.MaterialExpressionLinearInterpolate_0"')'
+[2019.06.25-15.38.10:678][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_19.MaterialExpressionVectorParameter_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.06.25-15.38.10:678][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionComponentMask'"MaterialGraphNode_24.MaterialExpressionComponentMask_3"')'
+[2019.06.25-15.38.10:678][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_22.MaterialExpressionConstant_0"')'
+[2019.06.25-15.38.10:678][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_23.MaterialExpressionConstant_2"')'
+[2019.06.25-15.38.10:678][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_22.MaterialExpressionConstant_0"')'
+[2019.06.25-15.38.10:678][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_22.MaterialExpressionConstant_0"')'
+[2019.06.25-15.38.10:679][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_0.MaterialExpressionMultiply_3"')'
+[2019.06.25-15.38.10:679][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTime'"MaterialGraphNode_26.MaterialExpressionTime_0"')'
+[2019.06.25-15.38.10:679][210]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSine'"MaterialGraphNode_25.MaterialExpressionSine_2"')'
+[2019.06.25-15.38.10:696][210]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.10:709][210]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.25-15.38.10:709][210]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.25-15.38.10:709][210]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.25-15.38.10:709][210]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.25-15.38.10:709][210]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.25-15.38.10:714][210]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_2, compiling. 
+[2019.06.25-15.38.10:907][221]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.25-15.38.10:942][224]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.25-15.38.10:955][225]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.25-15.38.10:955][225]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.25-15.38.11:048][232]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.25-15.38.11:085][234]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.25-15.38.11:112][236]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.25-15.38.11:112][236]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.25-15.38.11:188][242]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.25-15.38.11:332][253]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.25-15.38.11:431][260]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.25-15.38.11:521][267]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.25-15.38.11:547][269]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.25-15.38.11:638][276]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.25-15.38.11:717][281]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.25-15.38.11:897][292]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.25-15.38.11:973][298]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.06.25-15.38.12:016][301]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.25-15.38.12:056][303]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.25-15.38.12:202][311]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.25-15.38.12:217][312]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.25-15.38.12:236][313]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.06.25-15.38.12:236][313]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.06.25-15.38.12:236][313]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.06.25-15.38.12:236][313]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.25-15.38.14:178][508]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.14:193][508]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.14:209][508]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.06.25-15.38.14:209][508]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.06.25-15.38.14:209][508]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.25-15.38.14:209][508]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.25-15.38.14:261][508]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.25-15.38.14:266][508]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_2, compiling. 
+[2019.06.25-15.38.14:273][508]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.14:339][509]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.25-15.38.14:360][509]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.06.25-15.38.14:398][513]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.06.25-15.38.14:398][513]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.06.25-15.38.14:440][516]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.14:547][522]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.06.25-15.38.14:587][525]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.06.25-15.38.14:617][526]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.25-15.38.14:654][530]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.25-15.38.14:690][532]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.25-15.38.14:723][534]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.14:724][534]LogMaterial: Warning: /Engine/Transient.Cryonis_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.25-15.38.14:724][534]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2019.06.25-15.38.14:747][534]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.14:748][534]LogMaterial: Warning: /Engine/Transient.Cryonis_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.25-15.38.14:748][534]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2019.06.25-15.38.14:757][534]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.14:757][534]LogMaterial: Warning: /Engine/Transient.Cryonis_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.25-15.38.14:757][534]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2019.06.25-15.38.14:771][534]MaterialEditorStats: Error: [SM5] Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2019.06.25-15.38.15:165][565]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.15:166][565]LogMaterial: Warning: /Engine/Transient.Cryonis_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.25-15.38.15:166][565]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2019.06.25-15.38.15:533][605]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.15:553][605]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.06.25-15.38.15:553][605]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.06.25-15.38.15:553][605]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.25-15.38.15:553][605]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.25-15.38.15:555][605]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.15:581][605]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.15:698][607]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.06.25-15.38.15:733][609]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.06.25-15.38.15:767][611]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.25-15.38.15:784][612]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.25-15.38.15:859][617]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.25-15.38.15:864][617]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.15:921][618]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.06.25-15.38.15:965][622]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.06.25-15.38.15:978][623]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.25-15.38.16:042][628]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.25-15.38.16:055][629]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.25-15.38.16:142][636]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.25-15.38.16:185][639]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.25-15.38.16:243][644]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.25-15.38.16:254][645]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.25-15.38.16:296][649]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.25-15.38.16:328][652]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.25-15.38.16:400][658]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.25-15.38.16:400][658]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.25-15.38.16:412][659]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.25-15.38.16:459][663]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.25-15.38.16:505][667]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.25-15.38.16:528][669]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.25-15.38.16:702][684]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.25-15.38.16:726][686]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.25-15.38.16:811][693]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.25-15.38.16:867][697]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.25-15.38.16:873][697]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.16:912][697]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.16:945][697]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.16:969][697]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.06.25-15.38.17:069][700]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.06.25-15.38.17:161][705]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.25-15.38.17:230][708]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.06.25-15.38.17:300][712]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.06.25-15.38.17:380][717]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.06.25-15.38.17:380][717]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.06.25-15.38.17:414][719]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.06.25-15.38.17:427][720]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.25-15.38.17:499][725]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.25-15.38.17:536][728]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.25-15.38.17:563][730]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.25-15.38.17:792][745]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.25-15.38.17:840][749]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.25-15.38.17:851][750]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.25-15.38.18:108][771]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.25-15.38.18:124][772]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.25-15.38.18:156][774]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.18:202][775]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.06.25-15.38.18:372][786]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.06.25-15.38.18:411][789]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.25-15.38.18:478][792]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.06.25-15.38.18:510][794]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.06.25-15.38.18:510][794]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.06.25-15.38.18:580][800]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.06.25-15.38.18:627][804]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.06.25-15.38.18:638][805]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.25-15.38.18:662][807]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.25-15.38.18:686][809]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.25-15.38.18:782][816]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.25-15.38.19:009][830]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.25-15.38.19:068][834]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.25-15.38.19:083][835]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.25-15.38.19:396][853]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.25-15.38.19:417][854]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.25-15.38.19:516][859]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.25-15.38.19:726][872]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.25-15.38.19:828][877]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.25-15.38.19:853][878]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.25-15.38.19:951][883]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.25-15.38.20:124][891]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.25-15.38.20:428][901]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.25-15.38.20:557][906]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.25-15.38.20:613][908]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.25-15.38.20:768][914]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.25-15.38.21:068][926]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.06.25-15.38.21:068][926]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.25-15.38.21:154][930]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.25-15.38.21:406][941]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.25-15.38.21:597][948]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.25-15.38.22:673][952]MaterialEditorStats: Base pass shader: 83 instructions
+[2019.06.25-15.38.22:673][952]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 104 instructions
+[2019.06.25-15.38.22:673][952]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2019.06.25-15.38.22:673][952]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.25-15.38.22:673][952]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.25-15.38.25:132][221]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.25:163][222]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.06.25-15.38.25:163][222]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.06.25-15.38.25:163][222]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.25-15.38.25:163][222]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.06.25-15.38.25:338][234]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.06.25-15.38.25:353][235]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.06.25-15.38.25:353][235]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.06.25-15.38.25:353][235]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.06.25-15.38.25:492][245]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.25-15.38.25:492][245]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.25-15.38.25:531][248]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.25-15.38.25:531][248]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.25-15.38.25:830][264]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.25-15.38.25:906][267]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.25-15.38.25:927][268]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.25-15.38.26:355][284]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.25-15.38.26:355][284]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.25-15.38.26:483][288]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.25-15.38.26:721][295]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.25-15.38.26:766][297]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.25-15.38.26:810][299]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.25-15.38.26:868][302]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.25-15.38.27:045][310]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.25-15.38.27:192][317]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.25-15.38.27:289][322]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.25-15.38.27:328][324]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.25-15.38.27:445][330]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.25-15.38.27:589][337]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.06.25-15.38.27:645][340]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.25-15.38.27:708][343]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.25-15.38.27:845][350]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.25-15.38.27:986][357]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.25-15.38.28:634][358]MaterialEditorStats: Base pass shader: 87 instructions
+[2019.06.25-15.38.28:634][358]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 108 instructions
+[2019.06.25-15.38.28:634][358]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2019.06.25-15.38.28:634][358]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.25-15.38.28:634][358]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.25-15.38.30:009][509]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.30:037][510]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.06.25-15.38.30:038][510]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.06.25-15.38.30:038][510]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.25-15.38.30:038][510]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.06.25-15.38.30:198][522]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.06.25-15.38.30:215][523]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.06.25-15.38.30:215][523]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.06.25-15.38.30:215][523]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.06.25-15.38.30:358][532]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.25-15.38.30:373][533]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.25-15.38.30:388][534]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.25-15.38.30:402][535]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.25-15.38.30:670][554]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.25-15.38.30:707][557]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.25-15.38.30:731][559]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.25-15.38.31:010][580]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.25-15.38.31:021][581]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.25-15.38.31:089][586]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.25-15.38.31:297][597]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.25-15.38.31:409][604]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.25-15.38.31:423][605]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.25-15.38.31:526][612]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.25-15.38.31:687][624]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.25-15.38.31:840][634]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.25-15.38.31:896][638]LogMaterialEditor: Saving and Compiling material Cryonis_Mat
+[2019.06.25-15.38.32:375][638]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.25-15.38.32:375][638]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.25-15.38.32:375][638]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.25-15.38.32:375][638]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.06.25-15.38.32:375][638]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.25-15.38.32:375][638]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.25-15.38.32:398][638]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.32:504][638]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.32:539][638]LogMaterial: Display: Missing cached shader map for material Cryonis_Mat, compiling. 
+[2019.06.25-15.38.32:569][638]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.06.25-15.38.32:606][638]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Cryonis_Mat, compiling. 
+[2019.06.25-15.38.35:006][638]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.06.25-15.38.35:006][638]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.06.25-15.38.35:006][638]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.06.25-15.38.35:006][638]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.06.25-15.38.35:006][638]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.06.25-15.38.35:006][638]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.25-15.38.35:006][638]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.06.25-15.38.35:006][638]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.06.25-15.38.35:006][638]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.06.25-15.38.35:006][638]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.06.25-15.38.35:006][638]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.06.25-15.38.35:006][638]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.06.25-15.38.35:006][638]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.06.25-15.38.35:006][638]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.06.25-15.38.35:006][638]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.06.25-15.38.35:007][638]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.25-15.38.35:007][638]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.06.25-15.38.35:007][638]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.06.25-15.38.35:007][638]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.06.25-15.38.35:007][638]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.06.25-15.38.35:007][638]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.06.25-15.38.35:007][638]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.06.25-15.38.35:007][638]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.06.25-15.38.35:007][638]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.06.25-15.38.35:007][638]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.06.25-15.38.35:007][638]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.25-15.38.35:007][638]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.06.25-15.38.35:007][638]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.06.25-15.38.35:007][638]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.06.25-15.38.35:007][638]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.06.25-15.38.35:007][638]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.06.25-15.38.35:007][638]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.06.25-15.38.35:007][638]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.06.25-15.38.35:007][638]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.25-15.38.35:009][638]TextureStreamingBuild: Display: Compiling optional shaders took 2.412 seconds.
+[2019.06.25-15.38.38:012][638]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.25-15.38.38:012][638]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.25-15.38.38:078][638]LogSavePackage: Moving '../../../../../Unreal Projects/Zelda_Cryonis/Saved/Cryonis_MatF1C4738B4B3B9044EE1A4083C6B7956A.tmp' to '../../../../../Unreal Projects/Zelda_Cryonis/Content/ThirdPersonBP/Blueprints/Cryonis/Cryonis_Mat.uasset'
+[2019.06.25-15.38.38:095][638]MaterialEditorStats: Base pass shader: 87 instructions
+[2019.06.25-15.38.38:095][638]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 108 instructions
+[2019.06.25-15.38.38:095][638]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2019.06.25-15.38.38:095][638]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.25-15.38.38:095][638]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.25-15.38.44:945][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.38.44:962][878]LogSlate: Window 'Cryonis_Mat' being destroyed
+[2019.06.25-15.38.44:967][878]LogSlate: Window 'Cryonis_Mat' being destroyed
+[2019.06.25-15.38.58:627][232]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/ThirdPersonBP/Blueprints/Cryonis/Cryonis_Mat_Inst.Cryonis_Mat_Inst
+[2019.06.25-15.38.58:825][232]LogRenderer: Reallocating scene render targets to support 1336x900 Format 10 NumSamples 1 (Frame:1).
+[2019.06.25-15.39.13:542][798]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-15.39.13:843][833]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-15.39.17:107][223]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-15.39.19:118][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.39.19:207][462]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Cryonis_Mat_Inst, compiling. 
+[2019.06.25-15.39.19:442][462]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.25-15.39.19:443][462]TextureStreamingBuild: Display: Compiling optional shaders took 0.240 seconds.
+[2019.06.25-15.39.19:468][462]LogSavePackage: Moving '../../../../../Unreal Projects/Zelda_Cryonis/Saved/Cryonis_Mat_InstF6458CA143F827D144C5A4AC4AC97365.tmp' to '../../../../../Unreal Projects/Zelda_Cryonis/Content/ThirdPersonBP/Blueprints/Cryonis/Cryonis_Mat_Inst.uasset'
+[2019.06.25-15.39.21:297][677]LogSlate: Window 'Cryonis_Mat_Inst' being destroyed
+[2019.06.25-15.39.21:303][677]LogSlate: Window 'Cryonis_Mat_Inst' being destroyed
+[2019.06.25-15.39.23:830][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.39.49:868][302]LogEditorViewport: Clicking on Actor (LMB): BP_Water_Actor_C (BP_Water_Actor)
+[2019.06.25-15.39.52:573][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.40.37:683][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.40.40:461][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.40.48:430][985]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.06.25-15.40.51:974][405]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Cryonis.Cryonis
+[2019.06.25-15.40.58:739][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-15.41.01:842][417]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-15.41.02:636][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.41.04:783][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.41.33:378][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.41.34:672][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-15.41.44:972][544]LogEditorTransaction: Undo Modify Component(s)
+[2019.06.25-15.41.44:974][544]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.06.25-15.42.33:826][544]LogStats: FPlatformStackWalk::StackWalkAndDump - 48.852 s
+[2019.06.25-15.42.33:826][544]LogOutputDevice: Error: === Handled ensure: ===
+[2019.06.25-15.42.33:826][544]LogOutputDevice: Error: 
+[2019.06.25-15.42.33:826][544]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2105]
+[2019.06.25-15.42.33:826][544]LogOutputDevice: Error: 
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: Stack: 
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffe720185e8 UE4Editor-Engine.dll!UEdGraphPin::SanitizePinsPostUndoRedo() [d:\build\++ue4\sync\engine\source\runtime\engine\private\edgraph\edgraphpin.cpp:2105]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffe6fa5fe32 UE4Editor-UnrealEd.dll!UEditorEngine::BroadcastPostUndoRedo() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorserver.cpp:5111]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffe6fa8acf6 UE4Editor-UnrealEd.dll!UEditorEngine::HandleTransactorRedoUndo() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorserver.cpp:1195]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffe6fa7140c UE4Editor-UnrealEd.dll!TBaseUObjectMethodDelegateInstance<0,UEditorEngine,void __cdecl(FTransactionContext const & __ptr64,bool)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:679]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffe6fadb427 UE4Editor-UnrealEd.dll!TBaseMulticastDelegate<void,FTransactionContext const & __ptr64,bool>::Broadcast() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:974]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffe6fb1f72f UE4Editor-UnrealEd.dll!UTransBuffer::Undo() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editortransaction.cpp:1341]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffe6fab726f UE4Editor-UnrealEd.dll!UEditorEngine::UndoTransaction() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorserver.cpp:1410]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffe6ea11168 UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,FBlueprintEditor,0,void __cdecl(void)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:355]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffe70dd206f UE4Editor-Slate.dll!FUICommandList::ConditionalProcessCommandBindings() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\commands\uicommandlist.cpp:216]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffe70e14c8e UE4Editor-Slate.dll!FUICommandList::ProcessCommandBindings() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\commands\uicommandlist.cpp:160]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffe70114b88 UE4Editor-UnrealEd.dll!SEditorViewport::OnKeyDown() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\seditorviewport.cpp:112]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffe70d9694c UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FBubblePolicy,FKeyEvent,<lambda_2afcd964c763e269e2d1a63f3a72f846> >() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:270]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffe70e1697c UE4Editor-Slate.dll!FSlateApplication::ProcessKeyDownEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5097]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffe70e09a36 UE4Editor-Slate.dll!FSlateApplication::OnKeyDown() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5009]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffebed6daa4 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1666]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffebed60de0 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2281]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffebed701eb UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:929]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffebed5ca19 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:766]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffeeb61ca66 USER32.dll!UnknownFunction []
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffeeb61c582 USER32.dll!UnknownFunction []
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffebed71746 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:130]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ff78b485546 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3615]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ff78b49596c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:174]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ff78b4959ea UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ff78b4a48da UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:276]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ff78b4a659a UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:283]
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffeedd87974 KERNEL32.DLL!UnknownFunction []
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: [Callstack] 0x00007ffeee1aa271 ntdll.dll!UnknownFunction []
+[2019.06.25-15.42.33:827][544]LogOutputDevice: Error: 
+[2019.06.25-15.42.33:831][544]LogStats:                SubmitErrorReport -  0.000 s
